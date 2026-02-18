@@ -1,4 +1,4 @@
-# Probabilistic Simulator of Interventions
+# Bayesian Probabilistic Simulator of Causal Interventions
 
 ### Pipeline to Simulate Interventions on Causal Structures Probabilistically
 
